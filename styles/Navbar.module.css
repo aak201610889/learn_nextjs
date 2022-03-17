@@ -1,0 +1,9 @@
+.bg{
+  background-color: rgb(75, 14, 133);
+  color: white;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px 5px;
+}
